@@ -10,9 +10,9 @@
 			});
 
 			// entry point
-			app.listen(1225, function() {
+			app.listen(3325, function() {
 			  preLoad();
-			  console.log('Server listen on *:1225');
+			  console.log('Server listen on *:3325');
 			});
 		}
 

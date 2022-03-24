@@ -8,6 +8,7 @@
 			_g.express = require('express');
 			_g.app = require('express')();
 			_g.bodyParser = require('body-parser');
+			_g.mysql = require('mysql');
 		}
 
 		function loadRoute() {
